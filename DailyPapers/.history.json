@@ -1,0 +1,217 @@
+{
+  "last_update": "2026-03-27T11:51:01.062403",
+  "date": "2026-03-27",
+  "total_candidates": 385,
+  "papers": [
+    {
+      "arxiv_id": "2603.23497",
+      "title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
+      "score": 7,
+      "date": "2026-03-24",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24587v1",
+      "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "score": 7,
+      "date": "2026-03-25",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25685v1",
+      "title": "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning",
+      "score": 6,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25462v1",
+      "title": "Temporally Decoupled Diffusion Planning for Autonomous Driving",
+      "score": 6,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25544v1",
+      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "score": 5,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25464v1",
+      "title": "Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning",
+      "score": 5,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24931v1",
+      "title": "COIN: Collaborative Interaction-Aware Multi-Agent Reinforcement Learning for Self-Driving Systems",
+      "score": 5,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24581v1",
+      "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
+      "score": 5,
+      "date": "2026-03-25",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.18743",
+      "title": "Memento-Skills: Let Agents Design Agents",
+      "score": 4,
+      "date": "2026-03-19",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2511.11793",
+      "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
+      "score": 4,
+      "date": "2025-11-14",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.17187",
+      "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
+      "score": 4,
+      "date": "2026-03-17",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.12254",
+      "title": "Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing",
+      "score": 4,
+      "date": "2026-03-12",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2408.06292",
+      "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific\n  Discovery",
+      "score": 4,
+      "date": "2024-08-12",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.23483",
+      "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+      "score": 4,
+      "date": "2026-03-24",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.21064",
+      "title": "2Xplat: Two Experts Are Better Than One Generalist",
+      "score": 4,
+      "date": "2026-03-22",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25741",
+      "title": "Vega: Learning to Drive with Natural Language Instructions",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.19312",
+      "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+      "score": 3,
+      "date": "2026-03-13",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25716v1",
+      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25672v1",
+      "title": "Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25510v1",
+      "title": "Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25420v1",
+      "title": "VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25415v1",
+      "title": "Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25406v1",
+      "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25216v1",
+      "title": "A Wireless World Model for AI-Native 6G Networks",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25129v1",
+      "title": "AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting",
+      "score": 3,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24806v1",
+      "title": "FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions",
+      "score": 3,
+      "date": "2026-03-25",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24594v1",
+      "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+      "score": 3,
+      "date": "2026-03-25",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25740v1",
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "score": 2,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25725v1",
+      "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
+      "score": 2,
+      "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25688v1",
+      "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
+      "score": 2,
+      "date": "2026-03-26",
+      "processed": true
+    }
+  ]
+}
