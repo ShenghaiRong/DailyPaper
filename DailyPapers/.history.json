@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-28T08:39:18.804344",
+  "last_update": "2026-03-28T09:15:00.000000",
   "date": "2026-03-28",
   "total_candidates": 385,
   "papers": [
@@ -95,7 +95,7 @@
       "processed": true
     },
     {
-      "arxiv_id": "2603.25741",
+      "arxiv_id": "2603.25741v1",
       "title": "Vega: Learning to Drive with Natural Language Instructions",
       "score": 3,
       "date": "2026-03-26",
@@ -173,7 +173,7 @@
     },
     {
       "arxiv_id": "2603.24594v1",
-      "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+      "title": "Polynomial Speedup in Diffusion Models with Multilevel Euler-Maruyama Method",
       "score": 3,
       "date": "2026-03-25",
       "processed": true
@@ -221,6 +221,20 @@
       "processed": true
     },
     {
+      "arxiv_id": "2603.25544",
+      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "score": 5,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25464",
+      "title": "Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning",
+      "score": 5,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
       "arxiv_id": "2603.24931",
       "title": "COIN: Collaborative Interaction-Aware Multi-Agent Reinforcement Learning for Self-Driving Systems",
       "score": 5,
@@ -231,6 +245,167 @@
       "arxiv_id": "2603.24581",
       "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
       "score": 5,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25741",
+      "title": "Vega: Learning to Drive with Natural Language Instructions",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25716",
+      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25672",
+      "title": "Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25510",
+      "title": "Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25420",
+      "title": "VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25415",
+      "title": "Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25406",
+      "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25216",
+      "title": "A Wireless World Model for AI-Native 6G Networks",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25129",
+      "title": "AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24806",
+      "title": "FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24594",
+      "title": "Polynomial Speedup in Diffusion Models with Multilevel Euler-Maruyama Method",
+      "score": 3,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25740",
+      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25725",
+      "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25688",
+      "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25539",
+      "title": "PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25481",
+      "title": "LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25418",
+      "title": "Visualizing Impedance Control in Augmented Reality for Teleoperation",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25399",
+      "title": "LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25395",
+      "title": "UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25382",
+      "title": "IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25366",
+      "title": "Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25364",
+      "title": "Bayesian Learning-Enhanced Navigation with Deep Smoothing for Inertial-Aided Navigation",
+      "score": 2,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25353",
+      "title": "SafeGuard ASF: Agentic Humanoid Robot System for Autonomous Industrial Safety",
+      "score": 2,
       "date": "2026-03-28",
       "processed": true
     }
