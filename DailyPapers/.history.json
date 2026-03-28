@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-03-27T11:51:01.062403",
-  "date": "2026-03-27",
+  "last_update": "2026-03-28T08:39:18.804344",
+  "date": "2026-03-28",
   "total_candidates": 385,
   "papers": [
     {
@@ -67,13 +67,6 @@
       "processed": true
     },
     {
-      "arxiv_id": "2511.11793",
-      "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
-      "score": 4,
-      "date": "2025-11-14",
-      "processed": true
-    },
-    {
       "arxiv_id": "2603.17187",
       "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
       "score": 4,
@@ -85,13 +78,6 @@
       "title": "Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing",
       "score": 4,
       "date": "2026-03-12",
-      "processed": true
-    },
-    {
-      "arxiv_id": "2408.06292",
-      "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific\n  Discovery",
-      "score": 4,
-      "date": "2024-08-12",
       "processed": true
     },
     {
@@ -211,6 +197,41 @@
       "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
       "score": 2,
       "date": "2026-03-26",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24587",
+      "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "score": 7,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25685",
+      "title": "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning",
+      "score": 6,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.25462",
+      "title": "Temporally Decoupled Diffusion Planning for Autonomous Driving",
+      "score": 6,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24931",
+      "title": "COIN: Collaborative Interaction-Aware Multi-Agent Reinforcement Learning for Self-Driving Systems",
+      "score": 5,
+      "date": "2026-03-28",
+      "processed": true
+    },
+    {
+      "arxiv_id": "2603.24581",
+      "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
+      "score": 5,
+      "date": "2026-03-28",
       "processed": true
     }
   ]
