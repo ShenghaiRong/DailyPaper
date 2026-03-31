@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-03-29T08:35:08.621687",
-  "date": "2026-03-29",
+  "last_update": "2026-03-31T08:37:17.406610",
+  "date": "2026-03-31",
   "total_candidates": 30,
   "papers": [
     {
@@ -209,7 +209,7 @@
     {
       "arxiv_id": "2603.25685",
       "title": "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning",
-      "score": 6,
+      "score": 7,
       "date": "2026-03-28",
       "processed": true
     },
@@ -328,84 +328,84 @@
     {
       "arxiv_id": "2603.25740",
       "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25725",
       "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25688",
       "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25539",
-      "title": "PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos",
-      "score": 2,
+      "title": "PAWS: Perception of Articulation in Wild at Scale from Egocentric Videos",
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25481",
       "title": "LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25418",
-      "title": "Visualizing Impedance Control in Augmented Reality for Teleoperation",
-      "score": 2,
+      "title": "Visualizing Impedance Control in Augmented Reality for Teleoperation: Design and User Evaluation",
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25399",
       "title": "LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25395",
       "title": "UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25382",
       "title": "IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25366",
       "title": "Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25364",
       "title": "Bayesian Learning-Enhanced Navigation with Deep Smoothing for Inertial-Aided Navigation",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     },
     {
       "arxiv_id": "2603.25353",
       "title": "SafeGuard ASF: Agentic Humanoid Robot System for Autonomous Industrial Safety",
-      "score": 2,
+      "score": 3,
       "date": "2026-03-28",
       "processed": true
     }
