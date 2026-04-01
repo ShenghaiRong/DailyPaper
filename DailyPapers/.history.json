@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-03-31T08:37:17.406610",
-  "date": "2026-03-31",
+  "last_update": "2026-04-01T08:41:42.931608",
+  "date": "2026-04-01",
   "total_candidates": 30,
   "papers": [
     {
@@ -408,6 +408,11 @@
       "score": 3,
       "date": "2026-03-28",
       "processed": true
+    },
+    {
+      "id": "2603.25399v1",
+      "title": "LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior",
+      "date": "2026-04-01"
     }
   ]
 }
