@@ -1,286 +1,70 @@
 {
-  "last_update": "2026-04-03T08:35:00.000000",
-  "date": "2026-04-03",
+  "last_update": "2026-04-05T08:30:00.000000",
+  "date": "2026-04-05",
   "total_candidates": 30,
   "papers": [
     {
-      "arxiv_id": "2603.24587v1",
-      "title": "DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "arxiv_id": "2604.01605v1",
+      "title": "F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling",
       "score": 7,
-      "date": "2026-03-25",
-      "processed": true,
-      "recommendation": "必读",
-      "has_notes": true
-    },
-    {
-      "arxiv_id": "2603.25685v1",
-      "title": "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning",
-      "score": 6,
-      "date": "2026-03-26",
+      "date": "2026-04-05",
       "processed": true,
       "recommendation": "必读",
       "has_notes": false
     },
     {
-      "arxiv_id": "2603.25462v1",
-      "title": "Temporally Decoupled Diffusion Planning for Autonomous Driving",
-      "score": 6,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": true
-    },
-    {
-      "arxiv_id": "2603.25544v1",
-      "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale",
+      "arxiv_id": "2604.01985v1",
+      "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
       "score": 5,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25464v1",
-      "title": "Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning",
-      "score": 5,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.24931v1",
-      "title": "COIN: Collaborative Interaction-Aware Multi-Agent Reinforcement Learning for Self-Driving Systems",
-      "score": 5,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.24581v1",
-      "title": "Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving",
-      "score": 5,
-      "date": "2026-03-25",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25741v1",
-      "title": "Vega: Learning to Drive with Natural Language Instructions",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25716v1",
-      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25672v1",
-      "title": "Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25510v1",
-      "title": "Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25420v1",
-      "title": "VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25415v1",
-      "title": "Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25406v1",
-      "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25216v1",
-      "title": "A Wireless World Model for AI-Native 6G Networks",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "无关",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25129v1",
-      "title": "AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting",
-      "score": 3,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.24806v1",
-      "title": "FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions",
-      "score": 3,
-      "date": "2026-03-25",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.24594v1",
-      "title": "Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
-      "score": 3,
-      "date": "2026-03-25",
-      "processed": false,
-      "recommendation": "无关",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25740v1",
-      "title": "Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "值得看",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25725v1",
-      "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25688v1",
-      "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "无关",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25539v1",
-      "title": "PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25481v1",
-      "title": "LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "可跳过",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25418v1",
-      "title": "Visualizing Impedance Control in Augmented Reality for Teleoperation: Design and User Evaluation",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "无关",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25399v1",
-      "title": "LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior",
-      "score": 2,
-      "date": "2026-03-26",
+      "date": "2026-04-05",
       "processed": true,
       "recommendation": "必读",
       "has_notes": false
     },
     {
-      "arxiv_id": "2603.25395v1",
-      "title": "UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks",
-      "score": 2,
-      "date": "2026-03-26",
+      "arxiv_id": "2603.19312",
+      "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+      "score": 4,
+      "date": "2026-04-05",
       "processed": true,
-      "recommendation": "无关",
+      "recommendation": "必读",
       "has_notes": false
     },
     {
-      "arxiv_id": "2603.25382v1",
-      "title": "IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent",
-      "score": 2,
-      "date": "2026-03-26",
+      "arxiv_id": "2604.02190",
+      "title": "UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving",
+      "score": 7,
+      "date": "2026-04-05",
       "processed": true,
-      "recommendation": "无关",
+      "recommendation": "值得看",
       "has_notes": false
     },
     {
-      "arxiv_id": "2603.25366v1",
-      "title": "Integrating Deep RL and Bayesian Inference for ObjectNav in Mobile Robotics",
-      "score": 2,
-      "date": "2026-03-26",
+      "arxiv_id": "2604.01884v1",
+      "title": "GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting",
+      "score": 3,
+      "date": "2026-04-05",
       "processed": true,
-      "recommendation": "无关",
+      "recommendation": "值得看",
       "has_notes": false
     },
     {
-      "arxiv_id": "2603.25364v1",
-      "title": "Bayesian Learning-Enhanced Navigation with Deep Smoothing for Inertial-Aided Navigation",
-      "score": 2,
-      "date": "2026-03-26",
+      "arxiv_id": "2604.01720v1",
+      "title": "Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping",
+      "score": 3,
+      "date": "2026-04-05",
       "processed": true,
-      "recommendation": "无关",
-      "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.25353v1",
-      "title": "SafeGuard ASF: Agentic Humanoid Robot System for Autonomous Industrial Safety",
-      "score": 2,
-      "date": "2026-03-26",
-      "processed": true,
-      "recommendation": "无关",
+      "recommendation": "值得看",
       "has_notes": false
     }
   ],
   "summary": {
-    "total_processed": 30,
-    "recommended": 15,
+    "total_processed": 6,
+    "recommended": 6,
     "must_read": 3,
-    "worth_reading": 12,
-    "skippable": 7,
-    "unrelated": 8,
-    "with_notes": 2
+    "worth_reading": 3,
+    "skippable": 9,
+    "unrelated": 15,
+    "with_notes": 0
   }
 }
