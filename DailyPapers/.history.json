@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-04-05T08:30:00.000000",
-  "date": "2026-04-05",
+  "last_update": "2026-04-06T08:37:30.692666",
+  "date": "2026-04-06",
   "total_candidates": 30,
   "papers": [
     {
@@ -56,15 +56,36 @@
       "processed": true,
       "recommendation": "值得看",
       "has_notes": false
+    },
+    {
+      "arxiv_id": "2603.28032",
+      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
+      "score": 5,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
+    },
+    {
+      "arxiv_id": "2604.02268",
+      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+      "score": 4,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
+    },
+    {
+      "arxiv_id": "2604.01346v1",
+      "title": "Safety, Security, and Cognitive Risks in World Models",
+      "score": 4,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
     }
   ],
   "summary": {
-    "total_processed": 6,
-    "recommended": 6,
-    "must_read": 3,
-    "worth_reading": 3,
-    "skippable": 9,
-    "unrelated": 15,
+    "total_processed": 7,
+    "recommended": 7,
+    "must_read": 2,
+    "worth_reading": 5,
+    "skippable": 21,
+    "unrelated": 2,
     "with_notes": 0
   }
 }
