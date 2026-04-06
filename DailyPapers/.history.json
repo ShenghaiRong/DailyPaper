@@ -1,8 +1,237 @@
 {
-  "last_update": "2026-04-06T08:37:30.692666",
+  "last_update": "2026-04-06T09:14:54.647517",
   "date": "2026-04-06",
   "total_candidates": 30,
   "papers": [
+    {
+      "arxiv_id": "2603.28032",
+      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
+      "score": 5,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
+    },
+    {
+      "arxiv_id": "2604.02268",
+      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+      "score": 4,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
+    },
+    {
+      "arxiv_id": "2604.01346v1",
+      "title": "Safety, Security, and Cognitive Risks in World Models",
+      "score": 4,
+      "date": "2026-04-06",
+      "recommendation": "值得看"
+    },
+    {
+      "arxiv_id": "2604.01605",
+      "title": "F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling",
+      "score": 7,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2603.28713",
+      "title": "DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing",
+      "score": 5,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01985",
+      "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+      "score": 5,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02296",
+      "title": "VOID: Video Object and Interaction Deletion",
+      "score": 4,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02029",
+      "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
+      "score": 4,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2603.17187",
+      "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
+      "score": 4,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01346",
+      "title": "Safety, Security, and Cognitive Risks in World Models",
+      "score": 4,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2505.19591",
+      "title": "Multi-Agent Collaboration via Evolving Orchestration",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02282",
+      "title": "Deep Neural Network Based Roadwork Detection for Autonomous Driving",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02206",
+      "title": "LEO: Graph Attention Network based Hybrid Multi Sensor Extended Object Fusion and Tracking for Autonomous Driving Applications",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02168",
+      "title": "Reflection Generation for Composite Image Using Diffusion Model",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01884",
+      "title": "GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01720",
+      "title": "Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01709",
+      "title": "Bias mitigation in graph diffusion models",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01700",
+      "title": "Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01607",
+      "title": "ModTrans: Translating Real-world Models for Distributed Training Simulator",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01552",
+      "title": "ZEUS: Accelerating Diffusion Models with Only Second-Order Predictor",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01514",
+      "title": "Why Instruction-Based Unlearning Fails in Diffusion Models?",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01466",
+      "title": "Efficient Equivariant Transformer for Self-Driving Agent Modeling",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.01337",
+      "title": "SECURE: Stable Early Collision Understanding via Robust Embeddings in Autonomous Driving",
+      "score": 3,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02330",
+      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02318",
+      "title": "Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02226",
+      "title": "When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02151",
+      "title": "Auction-Based Online Policy Adaptation for Evolving Objectives",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02108",
+      "title": "Cross-Modal Visuo-Tactile Object Perception",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
+    {
+      "arxiv_id": "2604.02097",
+      "title": "LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model",
+      "score": 2,
+      "date": "2026-04-06",
+      "processed": false,
+      "recommendation": "pending"
+    },
     {
       "arxiv_id": "2604.01605v1",
       "title": "F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling",
@@ -56,27 +285,6 @@
       "processed": true,
       "recommendation": "值得看",
       "has_notes": false
-    },
-    {
-      "arxiv_id": "2603.28032",
-      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
-      "score": 5,
-      "date": "2026-04-06",
-      "recommendation": "值得看"
-    },
-    {
-      "arxiv_id": "2604.02268",
-      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
-      "score": 4,
-      "date": "2026-04-06",
-      "recommendation": "值得看"
-    },
-    {
-      "arxiv_id": "2604.01346v1",
-      "title": "Safety, Security, and Cognitive Risks in World Models",
-      "score": 4,
-      "date": "2026-04-06",
-      "recommendation": "值得看"
     }
   ],
   "summary": {
